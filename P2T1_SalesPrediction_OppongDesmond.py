@@ -5,7 +5,6 @@
 #Program to estimate annual profit of a company
 #
 
-
 #Input company total sales for the whole year.
 
 totalSales = float(input("Enter company yearly sales. "))
