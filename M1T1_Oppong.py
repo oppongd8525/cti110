@@ -6,6 +6,3 @@
 #Printing Hello World! in Python
 
 print("Hello World!")
-
-# Adding numbers in Python
-
